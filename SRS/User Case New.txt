@@ -1,0 +1,72 @@
+1) As a user, I want to Register to site.
+
+2) As a user, I want to Login to site.
+
+3) As a user, I want to create a profile for each of my pets.
+
+4) As a user, I want to see the my registered dogs and there details.
+
+5) As a user, I want to see my dogs vaccinations details.
+
+6) As a user, I want to contact the avalable persons who are responsible for the system and its problems.
+
+7) As a user, I want to see the the avalable services regarding to my dogs health.
+
+8) As a user, I want to see avalable doctors near my location.
+
+9) As a user, I want to see avalable doctors and the time avalable for them.
+
+10) As a user, I want to see the doctor and how many channels have be reserved at that time.
+
+11) As a user, I want to channel a doctor through the system.
+
+12) As a user, I want to see a detailed recipt about the channel.
+
+13) As a user, I want to check out the channeling process.
+
+14)As a user, I want to see the avalable catogaries of products.
+
+15) As a user, I want to see avalable products that dogs need like accoseries.
+
+16)As a user, I want to add my desired products to cart.
+
+17)As a user, I want to buy things in my cart at ones.multiple products at ones.
+
+18)As a user, I want to remove items from the cart.
+
+19)As a veterinarian ,I want to Register to site.
+
+20)As a veterinarian ,I want to Login to site.
+
+21)As a veterinarian ,I want to see the clients pets and there information on the system.
+
+22)As a veterinarian ,I want to serch dogs by there ID.
+
+23)As a veterinarian ,I want to see the details of history of vaccinations of dogs.
+
+24)As a veterinarian ,I want to update the vaccinations when vaccinate the dog.
+
+25)As a veterinarian ,I want to recieve the user massages and reply to there problems.
+
+26)As a system Administrator, I want to Login site.
+
+27)As a system Administrator, I want to update and manage the doctors avalable to channel in the system.
+
+28)As a system Administrator, I want to update the avalable vaccinations for the dogs.
+
+29)As a system Administrator, I want to add and remove avalable items in the store .
+
+30)As a system Administrator, I want to recieve the user massages and reply to there problems.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+.left-form {
+  position: absolute;
+  top: 50px; 
+  left: 50px; 
+  width: 800px;
+  background-color: #BEBEBE;
+  border-radius: 25px;
+  height: 450px;
+
+}
+
+.right-image {
+  position: absolute;
+  top: 50px; 
+  right: 50px; 
+  width: 400px;
+  height: 450px;
+}
+.container {
+    display: flex;
+}
+.in{
+    width: 750px;
+    background-color:#E9E7E7;
+    height: 30px;
+    border-radius: 45px;
+    margin-top: 20px;
+
+    
+}
+.button{
+    background-color: #27BD02;
+    height: 35px;
+    margin-left: 300px;
+    border-radius: 45px;
+    width: 150px;
+    
+}
+label{
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: Inter;
+   
+}   
+fieldset{
+    border-radius: 25px;
+    height: 430px;
+    
+
+}
+

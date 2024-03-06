@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    
+
+}
+.name{
+    text-align: left;
+    font-size: 40px;
+    position: absolute;
+    left: 30px;
+    top: 40px;
+}
+.link{
+    text-align: right;
+    font-size: 30px;
+    position: absolute;
+    top: 40px;
+    right: 30px;
+}    
+.icon img{
+    height:30px;
+    width: 30px;
+    position: relative;
+}
+a{
+    color: black;
+}
+.in .icon img {
+    width: auto; 
+    height: auto;
+    transform: translate(100%,100%);
+}
